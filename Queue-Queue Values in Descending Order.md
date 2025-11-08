@@ -25,7 +25,7 @@ To write a Python program to:
 ```
 q = []
 n = int(input())
-for _ in range(n):
+for i in range(n):
     val = int(input())
     q.append(val)
 
