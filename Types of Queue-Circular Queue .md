@@ -86,6 +86,7 @@ for i in range(3):
 print(*removed)
 ```
 ### Output:
+<img width="1291" height="350" alt="image" src="https://github.com/user-attachments/assets/5ef4314f-8f6b-4f25-b212-8ca9b9459e49" />
 
 ## Result:
   Thus, the python program that demonstrates the circular queue is executed successfully.
