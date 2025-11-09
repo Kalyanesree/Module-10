@@ -3,7 +3,6 @@
 This Python program demonstrates how to manage a list of strings and remove the last two elements (i.e., from the rear of the list).
 
 ## Aim
-
 To write a Python program to:
 - Accept `n` string values from the user
 - Remove the last two values (rear end of the list)
