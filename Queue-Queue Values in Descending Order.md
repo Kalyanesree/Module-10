@@ -3,7 +3,6 @@
 This Python program simulates a queue using a list, removes the first two elements (FIFO order), and displays the remaining values in descending order.
 
 ## Aim
-
 To write a Python program to:
 - Accept user inputs into a list (queue)
 - Remove the first two elements (simulating dequeue)
