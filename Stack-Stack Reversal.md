@@ -3,7 +3,6 @@
 This Python program demonstrates how to reverse the values in a stack using basic stack operations like push and pop.
 
 ## Aim
-
 To write a Python program that reverses the values in a stack using standard stack operations.
 
 ## Algorithm
